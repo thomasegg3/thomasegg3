@@ -1,1 +1,1 @@
-I am a Chemist/Computer scientist focused on machine learning and predictive modeling for Chemistry and in general!
+I am a Chemist/Computer scientist passionate about machine learning and data analysis!
